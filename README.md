@@ -1,2 +1,2 @@
-# -Industrial_Copper_Modeling-
+# Industrial_Copper_Modeling-
 Industrial Copper Modeling 
